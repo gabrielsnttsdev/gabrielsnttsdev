@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Gabriel dos Santos Souza, tenho 19 anos e sou natural de Guarulhos-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFRAN. Apaixonado por tecnologia, inovação e aprendizado contínuo.
+Me chamo Gabriel dos Santos Souza, tenho 20 anos e sou natural de Guarulhos-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFRAN. Apaixonado por tecnologia, inovação e aprendizado contínuo.
 
 ### 🤖 Linguagens e Tecnologias
 
